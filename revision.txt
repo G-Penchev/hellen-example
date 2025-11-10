@@ -1,6 +1,6 @@
 # make sure to increment revision BEFORE any changes to content
 
-BOARD_PREFIX=g
+BOARD_PREFIX=georgi
 BOARD_SUFFIX=penchev
 BOARD_REVISION=a
 
